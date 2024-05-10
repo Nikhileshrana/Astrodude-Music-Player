@@ -48,7 +48,7 @@ const Page = () => {
   const nextTrack = () => {
     const audio = document.getElementById('audioPlayer');
     audio.pause();
-    setAudioFile(`/Music/${Math.floor(Math.random() * 3) + 1}.mp3`);
+    setAudioFile(`/Music/${Math.floor(Math.random() * 20) + 1}.mp3`);
     audio.load();
     audio.play();
     setTrackStatus("/Pause_Track.svg");
