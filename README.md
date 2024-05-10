@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`] 
+## A Music PlayerBacked with Hindi + English Songs. Plays Songs Randomly and has some Functionaliities listedd Below : 
+- Play
+- Pause
+- Repeat
+- Realtime Music Status Display Dot
 
 ## Getting Started
 
